@@ -53,7 +53,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=vtientu&theme=transparent&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=vtientu&theme=transparent&hide_border=true"
     width="96%" 
     alt="GitHub Streak"
   />
