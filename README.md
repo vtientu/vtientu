@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Van Tien Tu</h1>
-<p align="center"><em>A passionate Frontend Developer from Vietnam 🇻🇳</em></p>
+<p align="center"><em>A passionate Frontend & Fullstack Developer from Vietnam 🇻🇳</em></p>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 💼 Working at **QI GROUP** as a Frontend Developer  
-- 🚀 Focus on building scalable, high-performance web applications  
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, TypeScript**
+- 🚀 Building scalable web applications with **React, NextJS & NestJS**  
+- 💬 Ask me about **ReactJS, NextJS, NestJS, NodeJS, TypeScript**
 
 ---
 
@@ -37,6 +37,7 @@
 
 #### Backend
 <p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
@@ -50,17 +51,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vtientu&show_icons=true&theme=transparent&hide_border=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtientu&layout=compact&theme=transparent&hide_border=true" 
-    width="48%" 
-  />
-</p>
 
 <p align="center">
   <img 
